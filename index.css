@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: 'Raleway', sans-serif;
+    background-color: white;
+}
+
+p {
+    color: #05022D;
+}
+
+div {
+    color: #05022D;
+}
+
+a {
+    color: #05022D;
+}
+
+.spacing-top {
+    margin-top: 40px;
+}
+
+.spacing-top-small {
+    margin-top: 20px;
+}
+
+.spacing-top-large {
+    margin-top: 80px
+}
+
+.spacing-right-tiny {
+    margin-right: 10px;
+}
+
+.separator {
+    width: 100%;
+    height: 4px;
+    background-color: #7F44FF;
+}
+
+.separator-small {
+    width: 20px;
+    height: 2px;
+    background-color: #7F44FF;
+}
+
+a.button {
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 999px;
+    color: white;
+    background-color: #7F44FF;
+    box-shadow: 0 0 15px 0 #7F44FF;
+}
+
+a.button:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a.social {
+    float: left;
+}
+
+a.social img {
+    display: block;
+}
+
+.clear {
+    clear: both;
+}
+
+label {
+    font-size: 13px;
+}
